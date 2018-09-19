@@ -27,6 +27,6 @@
   },
   "dependencies": {
     "decompress": "^4.0.0",
-    "package-stream": "^1.0.2"
+    "package-stream": "^2.0.0"
   }
 }
